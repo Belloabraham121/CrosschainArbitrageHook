@@ -384,14 +384,6 @@ This project is licensed under the UNLICENSED License - see the [LICENSE](LICENS
 - [Across Protocol](https://across.to/) for crosschain bridging infrastructure
 - [Foundry](https://getfoundry.sh/) for development and testing tools
 
-## 📞 Support
-
-For questions and support:
-
-- Create an issue on GitHub
-- Join our Discord community
-- Check the documentation wiki
-
 ---
 
 **⚠️ Disclaimer**: This software is experimental and should be used at your own risk. Always conduct thorough testing and consider professional audits before deploying to mainnet with significant funds.
