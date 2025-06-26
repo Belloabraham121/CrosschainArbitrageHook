@@ -376,7 +376,7 @@ forge test --fork-url $ETHEREUM_RPC_URL
 
 ## 📄 License
 
-This project is licensed under the UNLICENSED License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## 🙏 Acknowledgments
 
