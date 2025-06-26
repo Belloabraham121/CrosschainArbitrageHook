@@ -12,3 +12,5 @@ docs/
 
 # Dotenv file
 .env
+/workflows
+test_optimism.sh
